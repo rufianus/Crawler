@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "toraja",
+  "private_key_id": "c08616a144c6f5d89c6fe1922b8aa639f54c932a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCWeJdb/82yNP8v\nJYxqke+yvbw8AXK7+JnQj23y9gRac1zGcVinoccdZpSUMVYbzHTarkebupVUpdRO\njrG71u4rzAQM6+HOgqK+gHeEm+TKYez5IIaY/APiAvrBXH4Weu1BnYFj6V3IMwc9\nDctRU+WbqUsSAFgPCguSUXKphnoo2hjnYMCsgLd+/LmV3p3W0ubLclvrP56mJS6F\nxQX/ohCZvA1Vu6EudvDRz4j3OAxg0l4zEm1NVt1fZOhAMNanh7aqiDL6nyAlD+pe\nPDQiFS9XqbMhWyVwxQNglcxjGBy90J9pItY8rtMjBGcYEhf6Cf0+fsZxmT6CVlD0\n/Va9uOSzAgMBAAECggEAAPIpIW7uQByNLiKyS0k3lIwUztvDeOMLNIByVICvblIj\nVywHPqaJtembLYNR40LZyTYnRRdbMPkJ6KSFAYVMYgIaVGp3NPElTMVJ+w9v1MXg\n04Ac2IFdFOKn6OdH86Q6MZtn4NTqvgN0HDImARDh9KSP0EEoTI/nmrfgXKh3xCH4\nZWKa572ABgN2Bo8K9HNtBQUTs0tUCiY4e3KncJC8EeS0JLtfOyF3V2exgXzOdLfU\nTR2UqEpitadNCXoy57iLazsaLZWHwxvyYY3eWGOWfyzFFqaAX1sZCOKCuvwu4mo9\nTW4mIBvSf8CAc9ceLaSnaKMn24D4rExtWO6+ebBZ4QKBgQDPklEdWKwFRmyoW4lr\nfeqEMj0Gih/7jgF4D937K/c80B7ZRAGh2pW+4vgFGSRg5ZFcd/dJZKw4u04obgKc\nisXHNtrwxwWNWt3cGvqbkpA3xrMdl0Sj1ewf+Sv2gEmsxTj2nnoV3hIRdoLLPrvr\nCihodU8jT4JsPQqcqT4VsrebPQKBgQC5k9FSVhB+VDkNfMaWFFJYYTnbXMGauEnY\nOE2i7GnPq07jpKsbmQnpUF+l7gnDY3cNkitvy2+dKQ2fBtl8BrsDeZELGHD4S559\nLLtx4FZvotEjkcyM4MTDGqW5neOlCUrJTrps8odAshkX6IQlAgE8/kWy4PPqVgKa\nmL0i8uE+rwKBgHW+0jSLcEktwcVe530KWFXVCbkD8VCJJVwt5AXu0ri0dktYwHRH\nwlod9gMuV+x/TQ3fH2+KpAcqeROGFAUo0zhGbbvXqdadjOymgTJu2VBKbqCChnVJ\njEA24DFcZG6VEdMT4r0005sEVv1kAMU7ZeCbauDk4V704WgsuQMl9fEhAoGBAIKR\nK+9AOm6Hl3ST26zwM1eXYHukcVsIWnxUcNs2duPz5Zdo3jKWpFCRihpWtmvQaY0U\n0JbhjXAH2FuRGCeZHK8/MvuZgLJRkfsEJAXlDyuQZJEgHcjow8d50iwcmHQfa4zj\nZWsN4Hd2Vw1pPMBE/tYJGMTYXQT86uwWlswmErBlAoGBAItz/jIgloTx2Ef/Kik9\nijiK4Sp5GA0FZhs6FE26Glm6CEEArkb6r4s1QNZLuwTVPpD8Y1FV6ggPseEV+R93\nR9nxMgorl/S6eiWouRru/m67l3Y4FjfY92gYIhCn7LhJA09FVsWmSP0GJfvnTp1G\nRe/C2j4mcHx//enuhBxAacQC\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-sql-client@toraja.iam.gserviceaccount.com",
+  "client_id": "107477226555517991053",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-sql-client%40toraja.iam.gserviceaccount.com"
+}
