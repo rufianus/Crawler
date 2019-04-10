@@ -706,8 +706,6 @@ class Run:
     def CreateDummies(self):
 
         Login = self.Ecommerce_login()
-        Login.username = "blembong"
-        Login.password = "RagnarTargaryen"
         self.MySQL.Insert(Login)
         RunningLog = self.Ecommerce_running_log()
         RunningLog.user_ID = 1
